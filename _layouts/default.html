@@ -1,46 +1,46 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<html>
 <head>
-   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-   <title>{{ page.title }}</title>
-   <meta name="author" content="Nicolas Long" />
-
-   <!-- Homepage CSS -->
-   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
-
+<meta charset=utf-8 />
+<meta name="viewport" content="width=device-width" />
+<title>{{ page.title }}</title>
+<link rel="stylesheet" type="text/css" media="screen" href="/css/core.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/style.css" />
+<!--[if IE]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<style>
+  article, aside, figure, footer, header, hgroup,
+  menu, nav, section { display: block; }
+</style>
 </head>
 <body>
 
-<div class="site">
+  <header class="clearfix">
+    <a id="logo" title="Home" href="http://room271.net">room271</a>
+    <nav>
+      <ul>
+        <li><a href="/">home</a></li>
+        <li><a href="/about.html">about</a></li>
+      </ul>
+    </nav>
+  </header>
 
-  {{ content }}
-  
-  <div class="footer">
-    <div class="contact">
-      <p>
-        Nicolas Long <br />
-        nicolaslong@gmail.com
-      </p>
-    </div>
-    <div class="contact">
-      <p>
-        <a href="http://drupal.org/nicl/">drupal.org/nicl</a><br />
-        <a href="http://github.com/nicl">GitHub</a><br />
-      </p>
-    </div>
+  <div id="main" class="clearfix">
+    <article class="clearfix">
+      <h1>{{ page.title }}</h1>
+      {{ content }}
+    </article>
   </div>
-</div>
 
-<!-- Google Analytics -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-6016902-1");
-pageTracker._trackPageview();
-</script>
-<!-- Google Analytics end -->
+  <footer>
+    <div class="footer-inner">
+      &copy; MMXII nic long
+      <div id="contact">
+        <a href="https://github.com/nicl">github</a>, nicolaslong@gmail.com
+      </div>
+    </div>
+  </footer>
 
 </body>
 </html>

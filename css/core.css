@@ -1,0 +1,198 @@
+@media screen, projection {
+
+    * {
+        margin: 0;
+        padding: 0;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+    .clearfix:after {
+        clear: both;
+        content: " ";
+        display: block;
+        height: 0;
+        overflow: hidden;
+    }
+
+    body {
+        font-family: "Linux Libertine", Palatino, "Palatino Linotype", "Book Antiqua", Georgia, "Times New Roman", serif;
+    }
+
+    h1, h2, h3 {
+        font-weight: normal;
+        margin-top: 1em;
+        text-transform: lowercase;
+    }
+
+    h1 {
+        text-transform: uppercase;
+        font-size: 3em;
+        margin-top: 0;
+    }
+
+    #main p {
+        text-align: justify;
+        margin-top: 1em;
+    }
+
+    #main h1 + p,
+    #main h2 + p,
+    #main h3 + p {
+        margin-top: 0;
+    }
+
+    ul, ol {
+        margin-top: 1em;
+        margin-left: 2em;
+    }
+
+    ul {
+        list-style: circle outside none;
+    }
+
+    nav ul {
+        margin-top: 0;
+    }
+
+    header ul {
+        list-style: none outside none;
+    }
+
+    header li {
+        width: 50%;
+        height: 42px;
+        float: left;
+        text-align: center;
+    }
+
+    header ul li a {
+        display: block;
+        padding: 10px 0;
+    }
+
+    header ul li a:hover {
+        -webkit-transition: 0.2s ease-in;
+        -moz-transition: 0.2s ease-in;
+        -o-transition: 0.2s ease-in;
+        transition: 0.2s ease-in;
+    }
+
+    #logo {
+        display: none;
+    }
+
+    header, #main {
+        width: 85%;
+        margin: 2em auto 0;
+    }
+
+    #main {
+        margin-bottom: 2em;
+    }
+
+    footer {
+        padding: 2em 0;
+    }
+
+    footer .footer-inner {
+        width: 85%;
+        margin: 0 auto;
+    }
+
+    article img {
+        height: auto;
+        width: 100%;
+    }
+
+    article p {
+        font-size: 1em;
+        line-height: 1.5em;
+    }
+
+    .large {
+        font-size: 2em;
+    }
+
+    section {
+        margin-top: 32px;
+    }
+
+    ul.posts {
+        margin-top: 1em;
+        margin-left: 0;
+        list-style-type: none;
+    }
+
+    ul.posts li {
+        display: block;
+        padding: 10px 20px;
+        margin-top: 1em;
+    }
+
+    ul.posts li .date {
+        float: right;
+        text-align: right;
+        width: 20%;
+    }
+
+    .highlight {
+        margin-top: 1em;
+    }
+}
+
+@media screen and (max-width: 640px) {
+}
+
+@media screen and (min-width: 640px) {
+
+    header, footer .footer-inner, #main {
+        width: 600px;
+    }
+
+    #logo {
+        display: none;
+    }
+
+    nav {
+        width: 55%;
+        float: right;
+    }
+
+    footer .footer-inner {
+        position: relative;
+    }
+
+    header li {
+        width: 50%;
+    }
+
+    #contact {
+        float: right;
+    }
+
+}
+
+@media screen and (min-width: 960px) {
+
+    section {
+        width: 30%;
+        float: left;
+    }
+
+    section + section {
+        width: 35%;
+        padding-left: 5%;
+    }
+
+    #main-image {
+        width: 50%;
+        float: right;
+        padding-left: 5%;
+    }
+
+}
+
+@media screen and (min-width: 1600px) {
+}
