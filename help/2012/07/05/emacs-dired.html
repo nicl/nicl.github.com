@@ -3,7 +3,7 @@
 <head>
 <meta charset=utf-8 />
 <meta name="viewport" content="width=device-width" />
-<title>{{ page.title }}</title>
+<title>Managing Files with Emacs</title>
 <link rel="stylesheet" type="text/css" media="screen" href="/css/core.css" />
 <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css" />
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
@@ -47,10 +47,86 @@
 
   <div id="main" class="clearfix">
     <article class="clearfix">
-      <h1>{{ page.title }}</h1>
-      {{ content }}
+      <h1>Managing Files with Emacs</h1>
+      <div class="date">05 July 2012</div>
+<p>See <a href='http://www.gnu.org/software/emacs/manual/html_node/emacs/Dired.html#Dired'>here</a>.</p>
 
-      {% if page.comments %}
+<ul>
+<li>C-x d : displays directory listing (opens dired)</li>
+</ul>
+
+<p>note, C-x-d is different, it displays the directory but without edit options (it is not dired)</p>
+
+<h2 id='deleting'>Deleting</h2>
+
+<ul>
+<li>d: flag for deletion</li>
+
+<li>u: remove flag</li>
+
+<li>x: delete files that are flagged</li>
+
+<li>d regexp RET: flag files for deletion by regexp</li>
+</ul>
+
+<h2 id='visiting_files'>Visiting files</h2>
+
+<ul>
+<li>f: visit the file (replaces dired buffer)</li>
+
+<li>o: visit the file but in the other buffer (keep dired open)</li>
+
+<li>o: like o but keep cursor in dired buffer (this is most useful)</li>
+
+<li>v: view mode (read only, useful for quick glance, press &#8216;q&#8217; to then quit)</li>
+
+<li>^: view parent directory (like f on .. / shows dired for parent)</li>
+</ul>
+
+<p>So use ^ and f to navigate between folders.</p>
+
+<h2 id='marking_files'>Marking files</h2>
+
+<p>You can mark files to operate on multiple files at the same time. It can also server to ease navigation.</p>
+
+<p>Marking files is the same as for Emacs in general (C-space).</p>
+
+<h2 id='operating_on_files'>Operating on files</h2>
+
+<ul>
+<li>C new: copy</li>
+
+<li>R new: rename</li>
+
+<li>M: change mode (permissions, same arguments as chmod)</li>
+
+<li>G: change group (chgrp)</li>
+
+<li>O: change owner (chown)</li>
+
+<li>B: byte compile (for emacs lisp files)</li>
+</ul>
+
+<h2 id='file_comparison'>File comparison</h2>
+
+<ul>
+<li><span>=</span> : compare current file to mark</li>
+
+<li>M-= : compare current file to latest backup</li>
+</ul>
+
+<h2 id='make_a_new_file'>Make a new file</h2>
+
+<p>Just press + in dired mode in the parent folder.</p>
+
+<p>Alternatively, create a file directly, and then create the directory before saving do:</p>
+
+<p>M-x make-directory RET RET</p>
+
+<p>Nice :)</p>
+
+
+      
       <div id="disqus_thread"></div>
       <script type="text/javascript">
         var disqus_shortname = 'room271';
@@ -65,7 +141,7 @@
       <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
       <a href="http://disqus.com" class="dsq-brlink">comments powered
         by <span class="logo-disqus">Disqus</span></a>
-      {% endif %}
+      
 
     </article>
   </div>

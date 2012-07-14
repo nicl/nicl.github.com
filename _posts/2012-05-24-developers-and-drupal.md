@@ -3,6 +3,12 @@ layout: post
 title: Drupal - why the talent problem is not going to go away
 ---
 
+*UPDATE 27/05/2012: I wasn't 100% about this article when I wrote it. I was concerned that I was extrapolating (unfairly) a broader picture from my own (particular) experiences. After a great discussion with some clever and kind people on IRC (in drupal-contribute) I still think most of what is said below is an accurate reflection of my opinion and has some validity.*
+
+*But there are(!) seriously talented Drupalshops and people at the top, so if you like Drupal and learning, make an effort to work for one of those. Some of the feedback I received in IRC was from a young Drupaler whose experience was quite different from my own - they had completed an internship at a top Drupalshop and were just about to start working full-time on Drupal. During their internship they felt they'd learnt a lot (and looking at their Drupal contributions, I'm inclined to agree).*
+
+*And as someone else said, if you're a true geek, don't box yourself in; always investigate technologies on the side, if for nothing else than that it will help you become a better Drupaler and Drupal a better product!*
+
 A year ago, when I was just starting out as a developer (PHP being my first proper programming language) I was a gungho Drupalista. Drupal had enabled me to produce sophisticated sites even before I knew how to program. You could even say that without Drupal I would never have become a programmer. A year later, I still think Drupal is great - particularly the community - but I begin to find myself with doubts over whether I want to stick with Drupal for my career.
 
 In this blog I want to explore the reasons for this change in the hope that an analysis can provide some pointers for the community as a whole. I'm exactly the kind of young developer I think Drupal needs to target and if young people like me decide not to pursue or persist with Drupal, then Drupal is in trouble. It may be that the problem is intractable, but I hope not.
@@ -32,7 +38,7 @@ Growing pains
 Like me, the young developer will go through some changes in their early career. For me personally over the last year this has meant:
 
 * I have become a better PHP programmer, learning the basics of OOP and other newer PHP features such as namespaces, and generally having written and been exposed to more code than at year's start; 
-* I have become aware of a wider range of technologies and approaches, from Symphony and other leading PHP frameworks, to other languages and paradigms such as Ruby, Clojure (and associated functional programming), and the growing importance of Javascript even for the backend;
+* I have become aware of a wider range of technologies and approaches, from Symfony and other leading PHP frameworks, to other languages and paradigms such as Ruby, Clojure (and associated functional programming), and the growing importance of Javascript even for the backend;
 
 These changes have prompted a new perspective. In short, the world is bigger than before and Drupal has become correspondingly smaller, less impressive, and less exciting. All of this is, to some extent, inevitable for the younger (by which is meant less experienced) developer. But there are a number of reasons why Drupal might particularly begin to struggle to keep talented individuals.
 
@@ -41,7 +47,7 @@ Specific concerns
 
 ### Drupal is not sexy
 
-Drupal is not really on the cutting edge. We do not follow the sophisticated decoupling of Symphony, nor do we take advantage of language features such as namespaces that are standard elsewhere. PHP itself is perhaps not the most elegant or expressive language, although as a beginner I certainly appreciated its easy availability and wealth of learning resources. 
+Drupal is not really on the cutting edge. We do not follow the sophisticated decoupling of Symfony, nor do we take advantage of language features such as namespaces that are standard elsewhere. PHP itself is perhaps not the most elegant or expressive language, although as a beginner I certainly appreciated its easy availability and wealth of learning resources. 
 
 In short, Drupal has become a bit of a lumbering beast. There are signs of limbering up for Drupal 8, but that is 2 or more years away, and two years is a long time in web-development, not to mention in a young-person's career.
 
@@ -63,7 +69,7 @@ Perhaps, in fact, you are reading this article and want to shout out 'Drupal isn
 Anyway, enough of the moaning. What are you suggesting?!
 --------------------------------------------------------
 
-What can we, in the Drupal community do, to tackle the above? Well, to start we should be as radical as possible with Drupal 8. In my mind this means going for WSCCI and CMI full-fat versions, no holding back, and leveraging Symphony and other frameworks where possible to replace some of the cruft.\*
+What can we, in the Drupal community do, to tackle the above? Well, to start we should be as radical as possible with Drupal 8. In my mind this means going for WSCCI and CMI full-fat versions, no holding back, and leveraging Symfony and other frameworks where possible to replace some of the cruft.\*
 
 But some of the problems are not going to go away soon, because the 'athletic developer' I describe is not the only or even the core Drupal stakeholder. There is an inherent tension between business interests of cheap and rapid mass-development and backward-compatibility, and the uber-advanced glowing Drupal that the keen developer  would like to see and work on.
 

@@ -3,7 +3,7 @@
 <head>
 <meta charset=utf-8 />
 <meta name="viewport" content="width=device-width" />
-<title>{{ page.title }}</title>
+<title>welcome</title>
 <link rel="stylesheet" type="text/css" media="screen" href="/css/core.css" />
 <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css" />
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
@@ -47,25 +47,33 @@
 
   <div id="main" class="clearfix">
     <article class="clearfix">
-      <h1>{{ page.title }}</h1>
-      {{ content }}
+      <h1>welcome</h1>
+      <p class="large">I'm Nic Long. Welcome to my blog. I like technology and enjoy writing on a range of subjects - books, economics, faith, anything that interests me really.</p>
 
-      {% if page.comments %}
-      <div id="disqus_thread"></div>
-      <script type="text/javascript">
-        var disqus_shortname = 'room271';
+<ul class="posts">
+  
+  <li><div class="date">05 Jul 2012</div><a href="/2012/07/05/emacs-dired.html">Managing Files with Emacs</a></li>
+  
+  <li><div class="date">19 Jun 2012</div><a href="/2012/06/19/ruby-enumerable-methods.html">Enumerable methods in Ruby</a></li>
+  
+  <li><div class="date">16 Jun 2012</div><a href="/2012/06/16/javascript-objects-and-protype-based-programming.html">Javascript Objects And Protype Based Programming</a></li>
+  
+  <li><div class="date">30 May 2012</div><a href="/2012/05/30/goodbyes.html">goodbyes</a></li>
+  
+  <li><div class="date">24 May 2012</div><a href="/2012/05/24/developers-and-drupal.html">Drupal - why the talent problem is not going to go away</a></li>
+  
+  <li><div class="date">23 May 2012</div><a href="/2012/05/23/jekyll.html">Jekyll and blog redesign</a></li>
+  
+  <li><div class="date">19 May 2012</div><a href="/2012/05/19/ign-code-foo.html">IGN Code Foo!</a></li>
+  
+  <li><div class="date">27 Feb 2012</div><a href="/2012/02/27/php-style.html">PHP with style</a></li>
+  
+  <li><div class="date">11 Sep 2011</div><a href="/2011/09/11/code-stinks.html">Code smells</a></li>
+  
+</ul>
 
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-      </script>
-      <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-      <a href="http://disqus.com" class="dsq-brlink">comments powered
-        by <span class="logo-disqus">Disqus</span></a>
-      {% endif %}
+
+      
 
     </article>
   </div>

@@ -11,4 +11,4 @@ Code Foo is a summer internship scheme run by IGN. To quote from their website:
 
 The sad news is that I have to leave Strasbourg and all my friends :( for at least a little while. But the chance of working and learning at IGN was too good to pass up!
 
-I'll be blogging on my Code Foo experiences regularly once I get to San Francisco. In the meantime, for anyone interested, you can read up on Code Foo [here](http://code.ign.com/foo). And if you're interested in my application, check out [my github repo](http://github.com/nic/ign).
+I'll be blogging on my Code Foo experiences regularly once I get to San Francisco. In the meantime, for anyone interested, you can read up on Code Foo [here](http://code.ign.com/foo). And if you're interested in my application, check out [my github repo](http://github.com/nicl/ign).

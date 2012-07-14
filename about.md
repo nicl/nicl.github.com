@@ -8,7 +8,7 @@ About me in general
 
 I am from the UK but currently live and work in the beautiful city of Strasbourg, France.
 
-I like open source and [contribute](http://drupal.org/user/427352) to [Drupal](http://www.drupal.org). For the last year I have been helping to develop Drupal and custom PHP software full-time for [Actency](http://www.actency.fr) web-agency in France.
+I like open source and [contribute](http://drupal.org/user/427352) to [Drupal](http://www.drupal.org). For the last year I have been helping to develop Drupal and custom PHP software full-time for a  web-agency in France.
 
 I love solving complex problems by pursuing [simple, but not necessarily easy](http://www.infoq.com/presentations/Simple-Made-Easy), solutions.
 

@@ -137,8 +137,7 @@ h1, h2, h3 {
     color: #B58900;
 }
 
-header ul li a,
-header ul li a:link {
+header ul li a {
     background-color: #002b36;
     color: #EEE8D5;
 }
