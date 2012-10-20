@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: San Francisco, part 2
 ---
@@ -85,7 +85,7 @@ hostel, but with better startup connections, and worse everything else). Most
 evenings we grabbed food but didn't do too much. But last Saturday we most of
 the day exploring, first heading over to Fisherman's Wharf, then hiring bikes
 and cycling to and then across the Golden Gate Bridge. Fisherman's Wharf is part
-pictaresque, part tacky. But we had some great food.*
+pictaresque, part tacky. But we had some great food.\*
 
 The Golden Gate Bridge itself is stunning.
 
