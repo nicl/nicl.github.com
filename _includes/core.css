@@ -170,6 +170,21 @@
     ul.posts li .date {
         display: block;
     }
+
+    .project {
+        margin-top: 1em;
+        padding: 0;
+        outline: 1px solid whitesmoke;
+    }
+
+    .project a {
+        display: block;
+        line-height: 0;
+    }
+
+    .project a:hover {
+        border: none;
+    }
 }
 
 @media screen and (min-width: 960px) {

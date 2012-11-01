@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Drupal - why the talent problem is not going to go away
 ---
 
@@ -26,8 +27,8 @@ The Young Developer
 
 The young developer (note by 'young' is meant simply inexperienced) I am depicting arrives fresh on the scene with the following, highly laudable, goals:
 
-* to become a 'programmer' - that is to hold a strong understanding of computer science beyond simply being able to express herself in a single language or paradigm, and to be able to produce sophisticated programs which are well-written and easy to maintain and develop; 
-* to constantly learn; 
+* to become a 'programmer' - that is to hold a strong understanding of computer science beyond simply being able to express herself in a single language or paradigm, and to be able to produce sophisticated programs which are well-written and easy to maintain and develop;
+* to constantly learn;
 * to be at the cutting edge - to have the chance to innovate, work on more complex and interesting problems - both for personal satisfaction, and to provide for greater freedom in career choices later down the line;
 
 This is me. I try to do my best at achieving these goals.
@@ -37,7 +38,7 @@ Growing pains
 
 Like me, the young developer will go through some changes in their early career. For me personally over the last year this has meant:
 
-* I have become a better PHP programmer, learning the basics of OOP and other newer PHP features such as namespaces, and generally having written and been exposed to more code than at year's start; 
+* I have become a better PHP programmer, learning the basics of OOP and other newer PHP features such as namespaces, and generally having written and been exposed to more code than at year's start;
 * I have become aware of a wider range of technologies and approaches, from Symfony and other leading PHP frameworks, to other languages and paradigms such as Ruby, Clojure (and associated functional programming), and the growing importance of Javascript even for the backend;
 
 These changes have prompted a new perspective. In short, the world is bigger than before and Drupal has become correspondingly smaller, less impressive, and less exciting. All of this is, to some extent, inevitable for the younger (by which is meant less experienced) developer. But there are a number of reasons why Drupal might particularly begin to struggle to keep talented individuals.
@@ -47,7 +48,7 @@ Specific concerns
 
 ### Drupal is not sexy
 
-Drupal is not really on the cutting edge. We do not follow the sophisticated decoupling of Symfony, nor do we take advantage of language features such as namespaces that are standard elsewhere. PHP itself is perhaps not the most elegant or expressive language, although as a beginner I certainly appreciated its easy availability and wealth of learning resources. 
+Drupal is not really on the cutting edge. We do not follow the sophisticated decoupling of Symfony, nor do we take advantage of language features such as namespaces that are standard elsewhere. PHP itself is perhaps not the most elegant or expressive language, although as a beginner I certainly appreciated its easy availability and wealth of learning resources.
 
 In short, Drupal has become a bit of a lumbering beast. There are signs of limbering up for Drupal 8, but that is 2 or more years away, and two years is a long time in web-development, not to mention in a young-person's career.
 
@@ -78,7 +79,7 @@ A personal conclusion
 
 On a personal level, one obvious solution is to try and get into a top Drupal shop where one can work on taking Drupal forward and just avoid the lower end of the market altogether. Top firms like Acquia have started graduate programs ('Acquia-U') which provide a way-in straight to the technical-top of Drupal development. But even then, it is inescapable that a large part of Drupal development will be copy-and-paste (which is mostly what implementing hooks involves) and configuration. And transferable skills gained (understanding architecture, learning new languages, performance, etc.) will likely be less than through working on custom sites or with a framework.
 
-Another possibility is to try and join a shop which uses Drupal *along with* other technologies. There are plenty of shops like this; diversification is obvious, particularly in regard to the various Javascript frameworks now available). I would encourage young Drupal developers to consider this route - leverage your Drupal domain knowledge, if you have some, while at the same time exploring other technologies. 
+Another possibility is to try and join a shop which uses Drupal *along with* other technologies. There are plenty of shops like this; diversification is obvious, particularly in regard to the various Javascript frameworks now available). I would encourage young Drupal developers to consider this route - leverage your Drupal domain knowledge, if you have some, while at the same time exploring other technologies.
 
 Because, the danger is that working on Drupal alone could limit your personal development. And this is not surprising. Is it really wrong or harsh to suggest that the average ability of a Drupal developer is substantially below that of a Symfony or Rails developer? I don't think it is. (Please don't be offended if you work on Drupal - so do I and I include myself in this). After all, one of Dries' stated aims with Drupal is precisely to cut out the developer. And this is a good thing - to empower all sorts of people and organisations to make websites when before they could not. The thing is, it just might not be a good thing for me personally.
 

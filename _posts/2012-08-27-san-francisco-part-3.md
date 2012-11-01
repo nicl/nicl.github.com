@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: San Francisco part 3
 ---
 

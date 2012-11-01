@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Enumerable methods in Ruby
 ---
 Ruby is a lightweight scripting language and as such it provides a variety of in-built mechanisms for enumerating through collections (arrays and hashes mostly).
@@ -62,7 +63,7 @@ new = array.select() { |n| n > 1}
 \#inject
 -------
 
-Combine all elements using a binary operation. 
+Combine all elements using a binary operation.
 
 I.e. you are injecting each value into some calculation. Alternatively put, you are reducing the collection to a single value.
 
