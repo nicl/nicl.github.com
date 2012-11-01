@@ -154,7 +154,7 @@
 @media screen and (min-width: 640px) {
 
     header, footer .footer-inner, #main {
-        width: 600px;
+        width: 450px;
     }
 
     #logo {
