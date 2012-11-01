@@ -16,14 +16,14 @@ Besides programming, I am also interested in international development and econo
 
 In my free time I read books, play football, play video-games, and spend time with my friends.
 
-And **most importantly** I attempt to live out my faith in Jesus Christ.
+And most importantly I attempt to live out my faith in Jesus Christ.
 
 Skills
 ------
 
 If programming languages were spoken then you might say I:
 
-- am fluent in **PHP**, \*SQL (MySQL, SQLite), HTML and CSS
+- am fluent in **PHP**, SQL (specifically, having used MySQL, SQLite), HTML and CSS
 - can get by in **Javascript**
 - know a bit of **Scala** and **Ruby**
 - know a bit of noSQL databases, particularly **MongoDB**

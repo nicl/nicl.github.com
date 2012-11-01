@@ -3,7 +3,7 @@ layout: post
 title: San Francisco part 3
 ---
 
-On my first full day in San Francisco, almost exactly seven weeks ago, Mitch and I walked to Union Square to have breakfast. Today, as I wandered around SF one last time, I found myself almost without intention back in the same place. But a lot has changed; Code Foo has come and gone. Six and a bit weeks of new people, new places, and new technologies.
+On my first full day in San Francisco, almost exactly seven weeks ago, Mitch and I walked to Union Square to have breakfast. Today, as I wandered around SF one last time, I found myself almost without intention back in the same place. But a lot has changed. Code Foo has come and gone; six and a bit weeks of new people, new places, and new technologies.
 
 The last few weeks have been pretty busy: everyone working hard at their respective projects; a hackday; interviews for some; and lots of socialising and, eventually, goodbyes. Of the nine off us living in Startup House, I'm now the only one left. We had a great send-off Wednesday night mostly spent in Bar Basic - our regular haunt - then finishing with 'breakfast' at Denny's at around two o'clock Thursday morning.
 

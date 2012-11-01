@@ -1,24 +1,3 @@
-@font-face {
-    font-family: "Linux Libertine";
-    font-style: normal;
-    font-weight: normal;
-    src: local("Linux Libertine"), url("../fonts/LinLibertine_R.woff") format("woff"), url("../fonts/LinLibertine_R.ttf") format("truetype");
-}
-
-@font-face {
-    font-family: "Linux Libertine";
-    font-style: normal;
-    font-weight: bold;
-    src: local("Linux Libertine"), url("../fonts/LinLibertine_RB.woff") format("woff"), url("../fonts/LinLibertine_RB.ttf") format("truetype");
-}
-
-@font-face {
-    font-family: "Linux Libertine";
-    font-style: italic;
-    font-weight: normal;
-    src: local("Linux Libertine"), url("../fonts/LinLibertine_RI.woff") format("woff"), url("../fonts/LinLibertine_RI.ttf") format("truetype");
-}
-
 a:link {
     text-decoration: none;
     color: #2aa198;
@@ -36,204 +15,32 @@ a:active {}
 
 body {
     line-height: 1.5em;
+    color: #333;
 }
 
 h1, h2, h3 {
     line-height: 1.5em;
 }
 
-header ul li:hover,
-header ul li  a {
-    border-bottom: none;
-    -webkit-transition: 0.2s ease-in;
-    -moz-transition: 0.2s ease-in;
-    -o-transition: 0.2s ease-in;
-    transition: 0.2s ease-in;
-}
-
-header ul li a:hover {
-    border-bottom: none;
-}
-
 ul.posts li {
     text-transform: lowercase;
-}
-
-ul.posts li:hover {
-    -webkit-transition: 0.2s ease-in;
-    -moz-transition: 0.2s ease-in;
-    -o-transition: 0.2s ease-in;
-    transition: 0.2s ease-in;
 }
 
 .date {
     font-style: italic;
 }
 
-ul.posts li a:link,
-ul.posts li a:hover {
-    text-decoration: none;
-    border-bottom: none;
+.disqus-outer {
+    margin-top: 1em;
+    padding: 1em;
+    background-color: whitesmoke;
 }
 
-ul.posts li:hover .date,
-ul.posts li:hover a {
-    -webkit-transition: 0.2s ease-in;
-    -moz-transition: 0.2s ease-in;
-    -o-transition: 0.2s ease-in;
-    transition: 0.2s ease-in;
-}
-
-/** Colour switcher controls
-------------------------------------------------------------------------------*/
-
-ul.switch-theme {
-    float: left;
-    width: 102px;
-    margin: 0;
-    padding: 0;
-    display: none;
-}
-
-.switch-theme li {
-    height: 20px;
-    width: 50px;
-    cursor: pointer;
-}
-
-.switch-theme li:hover {
-    height: 20px;
-    -webkit-transition: 0.2s ease-in;
-    -moz-transition: 0.2s ease-in;
-    -o-transition: 0.2s ease-in;
-    transition: 0.2s ease-in;
-}
-
-.switch-theme li.active {
-    height: 5px;
-}
-
-.switch-theme li span {
-    display: none;
-}
-
-.switch-theme li.light {
-    background-color: #B58900;
-}
-
-.switch-theme li.dark {
-    background-color: #073642;
-}
-
-/** Light colour scheme
-------------------------------------------------------------------------------*/
-
-body {
-    background-color: #FDF6E3;
-    color: #002B36;
-}
-
-h1, h2, h3 {
-    color: #B58900;
-}
-
-header ul li a,
-header ul li a:link {
-    background-color: #002b36;
-    color: #EEE8D5;
-}
-
-header ul li a:visited {
-    color: #EEE8D5;
-}
-
-header ul li a:hover {
-    background-color: #b58900;
-    color: #EEE8D5;
-}
-
-ul.posts li {
-    background-color: #002b36;
-    color: #EEE8D5;
-}
-
-ul.posts li:hover {
-    background-color: #b58900;
-    color: #EEE8D5;
-}
-
-.date {
-    color: #93a1a1;
-}
-
-ul.posts li a:link,
-ul.posts li a:hover {
-    color: #EEE8D5;
-}
-
-ul.posts li a:visited {
-    color: #657B83;
-}
-
-ul.posts li:hover .date,
-ul.posts li:hover a {
-    color: #EEE8D5;
+.disqus-outer h2 {
+    margin-top: 0;
+    margin-bottom: 1em;
 }
 
 footer {
-    background-color: #002b36;
-    color: #657B83;
-}
-
-/** Dark colour scheme
-------------------------------------------------------------------------------*/
-
-body.dark {
-    background-color: #002b36;
-    color: #93a1a1;
-}
-
-.dark h1, h2, h3 {
-    color: #B58900;
-}
-
-.dark header ul li a {
-    background-color: #073642;
-}
-
-.dark header ul li a:hover {
-    background-color: #b58900;
-    color: #EEE8D5;
-}
-
-.dark ul.posts li {
-    background-color: #073642;
-    color: #93A1A1;
-}
-
-.dark ul.posts li:hover {
-    background-color: #b58900;
-    color: #EEE8D5;
-}
-
-.dark .date {
-    color: #93a1a1;
-}
-
-.dark ul.posts li a:link,
-.dark ul.posts li a:hover {
-    color: #EEE8D5;
-}
-
-.dark ul.posts li a:visited {
-    color: #657B83;
-}
-
-.dark ul.posts li:hover .date,
-.dark ul.posts li:hover a {
-    color: #EEE8D5;
-}
-
-.dark footer {
-    background-color: #073642;
+    background-color: whitesmoke;
 }
