@@ -2,6 +2,7 @@
 layout: post
 category: blog
 title: Code smells
+permalink: /2011/09/11/code-stinks.html
 ---
 
 Code smells are indicators of bad coding practice and possible problems down the line. By learning how to identify these stinks we can write cleaner code which is easier to read, easier to maintain, and which is less prone to unexpected behaviour.

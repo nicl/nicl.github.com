@@ -2,6 +2,7 @@
 layout: post
 category: blog
 title: Enumerable methods in Ruby
+permalink: /2012/06/19/ruby-enumerable-methods.html
 ---
 Ruby is a lightweight scripting language and as such it provides a variety of in-built mechanisms for enumerating through collections (arrays and hashes mostly).
 

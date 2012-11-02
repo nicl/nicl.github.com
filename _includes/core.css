@@ -17,7 +17,8 @@
     }
 
     body {
-        font-family: Palatino, "Palatino Linotype", "Book Antiqua", Georgia, "Times New Roman", serif;
+        font-family: arial, sans-serif;
+        font-size: 14px;
     }
 
     h1, h2, h3 {

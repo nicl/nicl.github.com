@@ -2,6 +2,7 @@
 layout: post
 category: blog
 title: IGN Code Foo!
+permalink: /2012/05/19/ign-code-foo.html
 ---
 
 I found out today that I have been accepted for IGN's Code Foo 2012! This is going to be awesome!

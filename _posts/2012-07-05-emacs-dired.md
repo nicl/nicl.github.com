@@ -2,6 +2,7 @@
 layout: post
 category: blog
 title: Managing Files with Emacs
+permalink: /2012/07/05/emacs-dired.html
 ---
 
 See [here](http://www.gnu.org/software/emacs/manual/html_node/emacs/Dired.html#Dired).

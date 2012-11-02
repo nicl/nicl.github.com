@@ -2,6 +2,7 @@
 layout: post
 category: blog
 title: San Francisco, part 2
+permalink: /2012/07/21/san-francisco-part-2.html
 ---
 
 It's Saturday 21 July, and I've been in San Francisco almost two weeks. Code Foo

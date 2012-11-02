@@ -2,6 +2,7 @@
 layout: post
 category: blog
 title: Drupal - why the talent problem is not going to go away
+permalink: /2012/05/24/developers-and-drupal.html
 ---
 
 *UPDATE 27/05/2012: I wasn't 100% about this article when I wrote it. I was concerned that I was extrapolating (unfairly) a broader picture from my own (particular) experiences. After a great discussion with some clever and kind people on IRC (in drupal-contribute) I still think most of what is said below is an accurate reflection of my opinion and has some validity.*

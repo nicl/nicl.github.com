@@ -2,6 +2,7 @@
 layout: post
 category: blog
 title: San Francisco, part 1
+permalink: /2012/07/10/san-francisco-part-1.html
 ---
 
 It's 5.38pm on my first full day in San Francisco. After a ~16 journey\*, via New York,
