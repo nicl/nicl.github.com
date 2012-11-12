@@ -104,7 +104,7 @@ If programming languages were spoken then you might say I:
 - know a bit of **Scala**, **Clojure**, and **Ruby**
 - know a bit of noSQL databases, particularly **MongoDB**
 
-The vast majorit of my professional experience is with PHP. I have
+The vast majority of my professional experience is with PHP. I have
 worked with several PHP frameworks and CMSs - most notably
 [Symfony2](http://symfony.com/) (and the
 [Silex](http://silex.sensiolabs.org/) microframework) and
