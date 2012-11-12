@@ -3,9 +3,9 @@ layout: default
 title: projects and experience
 ---
 
-For code samples, check out [my github account](https://github.com/nicl).
+<p class="large">For code samples, check out <a href="https://github.com/nicl">my github account</a>.</p>
 
-Or [read my my CV](/curriculum-vitae.html).
+<p class="large">For more information about me, <a href="/curriculum-vitae.html">read my CV</a>.</p>
 
 {% for post in site.posts %}
 {% if post.category == 'project' %}
