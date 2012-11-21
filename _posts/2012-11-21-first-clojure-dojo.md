@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: First Clojure Dojo with the London Clojurians
+title: First Clojure Dojo
 ---
 
 A while back I bought the book [Seven Languages in Seven
