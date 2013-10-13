@@ -11,8 +11,8 @@ I first heard the term 'REST' a while ago. I wasn't exactly sure what
 it meant, but I knew it was a good thing. It's surprising looking back
 how confident I was in this perspective given I mostly understood REST
 to mean pretty endpoints of the form /noun[id]. I've since done some
-reading* and turns out there is a lot more to the idea than I first
-thought.** REST itself (often used in the form RESTful - as in 'an API
+reading\* and turns out there is a lot more to the idea than I first
+thought.\*\* REST itself (often used in the form RESTful - as in 'an API
 should be RESTful') has become a buzzword of sorts, so it's useful to
 remind ourselves what it actually is.
 
@@ -44,7 +44,7 @@ It is easy to see how HTTP expresses the basic principles of
 REST. Clients make requests to servers via HTTP requests, requests are
 stateless (that is, the server does not hold session state), and there
 are in-built cache semantics (GET vs POST, but also various control
-headers and more***). Each part of the uniform interface specified by
+headers and more\*\*\*). Each part of the uniform interface specified by
 Fielding also has a direct corollary in HTTP:
 
 * Identification of resources => URIs
@@ -89,6 +89,6 @@ I'll discuss this question in a future blog post.
   (http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) is a
   good starting points here.
 
-** Who could have predicted that?!
+\*\* Who could have predicted that?!
 
-*** See: http://www.w3.org/Protocols/rfc2616/rfc2616-sec13.html.
+\*\*\* See: http://www.w3.org/Protocols/rfc2616/rfc2616-sec13.html.
