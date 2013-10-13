@@ -63,7 +63,7 @@ does not enforce it. You can, if you like, redefine GET to mean
 whatever you like. Or, you could use cookies and break
 statelessness. Fundamentally, HTTP enables two computers to
 communicate. But what we do with that ability is still largely up to
-us.****
+us.
 
 ## Are there *any* RESTful APIs?!
 
@@ -84,9 +84,9 @@ might be a good example - they seem to take REST seriously.
 
 I'll discuss this question in a future blog post.
 
-/* Fielding's original
+\* Fielding's original
   dissertation
   (http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) is a
   good starting points here.
-/*/* Who could have predicted that?!
-/*/*/* See: http://www.w3.org/Protocols/rfc2616/rfc2616-sec13.html.
+** Who could have predicted that?!
+*** See: http://www.w3.org/Protocols/rfc2616/rfc2616-sec13.html.
