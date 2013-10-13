@@ -88,5 +88,7 @@ I'll discuss this question in a future blog post.
   dissertation
   (http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) is a
   good starting points here.
+
 ** Who could have predicted that?!
+
 *** See: http://www.w3.org/Protocols/rfc2616/rfc2616-sec13.html.
