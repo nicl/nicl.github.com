@@ -40,7 +40,7 @@ Oxford University, 2:1, 2008
 As in English Literature, Maths, History, Economics, General Studies,
 
 **13 GCSEs (5 short-courses)**<br />
-8A*s, 5As (School Public Examination Prize)
+8A\*s, 5As (School Public Examination Prize)
 
 ## <a id="work"></a>Work
 

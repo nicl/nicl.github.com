@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: APIs: Rest
+title: APIs - Rest
 permalink: /2012/07/10/apis-rest.html
 ---
 

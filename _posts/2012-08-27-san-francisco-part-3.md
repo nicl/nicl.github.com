@@ -108,9 +108,9 @@ how a business should be run (particularly re the
 engineering-practices I mentioned above), and do you agree with where
 the company is going/the long-term aim?
 
-\** Nic's SF food reviews cont'd...
+\*\* Nic's SF food reviews cont'd...
 
 * Brick House (9/10 - great burger joint off 4th and Brannan,
 inexpensive but very good. We went back again and again, and again...)
-*Ike's Place (7/10 - well-known sandwich place, pros are the great
+* Ike's Place (7/10 - well-known sandwich place, pros are the great
 menu, -ves are the price)
