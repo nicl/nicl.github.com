@@ -44,3 +44,8 @@ ul.posts li {
 footer {
     background-color: whitesmoke;
 }
+
+blockquote {
+    padding-left: 1em;
+    border-left: 0.5em solid rgb(42, 161, 152);
+}

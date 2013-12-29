@@ -25,7 +25,7 @@ the way, no boredom, no slog, passion unhindered, running wind in the hair!
 
 But is the core idea itself workable? Or is it idealistic, naive even?
 
-The suspicion is that poor performers blame managers for their own failings and
+One suspicion is that poor performers blame managers for their own failings and
 lack of initiative. After all, good employees *make* things happen, right, even
 through adverse circumstances.
 
@@ -69,12 +69,13 @@ has almost certainly improved since then.
 In short, we must grudgingly admit that they are very successful at what they
 do.
 
-Interestingly, they are a keen advocate of Employee Anarchy.
+Perhaps surprisingly, they are a keen advocate of Employee Anarchy.
 
-The piece itself is mostly a PR exercise about Node JS. However, also discussed
-is their adoption of 'Developer Driven Development' (their version of no
-managers), a change driven by their at-the-time Chief Architect Fred George.
-DDD is described as the following practices:
+The piece linked above is mostly a PR exercise about their use of a specific
+technology - Node JS. However, also discussed is their adoption of 'Developer
+Driven Development' (their version of no managers), a change driven by their
+at-the-time Chief Architect Fred George. DDD is described as the following
+practices:
 
 > The Rules are simple: developers, on a 'Table' (team), own a project
 > end-to-end and have the freedom to make their own choices. All major work is a
@@ -104,9 +105,10 @@ motivated workers. Lastly, a lack of managers focuses an organisation on
 account.
 
 Unlike most of the examples below, we do get some discussion of the negatives
-and unknowns. 'Anarchy' in practice is very much a function of team composition,
-he suggests. Sometimes you still need top-down guidance. And, lastly, their
-experiences haven't yet been stressed in the crucible of financial difficulty.
+and unknowns. 'Anarchy' in practice, says George, is very much a function of
+team composition, and sometimes you still need top-down guidance. Lastly, he
+acknowledges that their experiences haven't yet been stressed in the crucible of
+financial difficulty.
 
 We'll consider some of these later. For now, let's move on to the next case
 study.
