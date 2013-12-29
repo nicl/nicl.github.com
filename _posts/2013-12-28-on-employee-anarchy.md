@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 category: blog
 title: On programmer anarchy
 ---
@@ -33,7 +33,7 @@ And the best employees go further and actually *change* their circumstances.
 
 Most of us, however, are not exceptional. The best can often overcome, or
 change, circumstances through great leadership and persistence, but most
-employees are, by definition, [average](#average-is-average).
+employees are, by definition, average.<a href="#average-is-average">\*</a>
 
 In any case, good business owners and leaders should constantly review their
 company structure; people can and do succeed in traditional hierarchies, but the
@@ -46,7 +46,8 @@ What about real life examples then?
 Unfortunately, as an idea, employee anarchy is relatively untried. I'm not aware
 of any large-sample statistical analyses comparing the employee-led model with
 more traditional ones. And, in any case, the statistical hurdles to overcome in
-order to make such a study sensible would be high indeed.[**](#bad-statistics)
+order to make such a study sensible would be high indeed.<a
+href="#bad-statistics">\*\*</a>
 
 Instead, then, we're left with case studies. And for 'case studies' read PR-like
 blog posts describing 'success' cases. Below we'll discuss some of these
@@ -56,14 +57,14 @@ So not exactly science, but nonetheless some very interesting food for thought.
 
 Let's get to the examples...
 
-### [The Mail Online][]
+### The Mail Online
 
-http://www.nearform.com/nodecrunch/how-node-js-has-revolutionized-the-mailonline
+[http://www.nearform.com/nodecrunch/how-node-js-has-revolutionized-the-mailonline](http://www.nearform.com/nodecrunch/how-node-js-has-revolutionized-the-mailonline)
 
-The Mail Online is a trashy, celebrity-filled 'news' website. It is, in fact,
-the most read English-language newspaper in the world. Wikipedia tells me they
-reached 105.72 million unique web browsers in August 2012, and the number has
-almost certainly improved since then.
+[The Mail Online][] is a trashy, celebrity-filled 'news' website. It is, in
+fact, the most read English-language newspaper in the world. Wikipedia tells me
+they reached 105.72 million unique web browsers in August 2012, and the number
+has almost certainly improved since then.
 
 In short, we must grudgingly admit that they are very successful at what they
 do.
@@ -107,13 +108,14 @@ and unknowns. 'Anarchy' in practice is very much a function of team composition,
 he suggests. Sometimes you still need top-down guidance. And, lastly, their
 experiences haven't yet been stressed in the crucible of financial difficulty.
 
-We'll analyse these later. For now, let's move on to our next case study.
+We'll consider some of these later. For now, let's move on to the next case
+study.
 
-### [Treehouse][]
+### Treehouse
 
-http://ryancarson.com/post/61562761297/no-managers-why-we-removed-bosses-at-treehouse
+[http://ryancarson.com/post/61562761297/no-managers-why-we-removed-bosses-at-treehouse](http://ryancarson.com/post/61562761297/no-managers-why-we-removed-bosses-at-treehouse)
 
-Treehouse is an online e-learning platform, which teaches people how to
+[Treehouse][] is an online e-learning platform, which teaches people how to
 code. They moved to a managerless structure after an employee vote.
 
 Reading the article, the Treehouse move appears to have been motivated by a
@@ -132,13 +134,13 @@ organised (which is a strange way of putting it) then the Treehouse article is
 well worth a read - it goes into a lot of detail on how they've worked it all
 out.
 
-### [Github][]
+### Github
 
-http://tomayko.com/writings/management-style
+[http://tomayko.com/writings/management-style](http://tomayko.com/writings/management-style)
 
-Github is a software-as-a-service company, providing code hosting and workflow
-tools. The site has over 5m users including many corporate clients such as The
-Guardian (where I work).
+[Github][] is a software-as-a-service company, providing code hosting and
+workflow tools. The site has over 5m users including many corporate clients such
+as The Guardian (where I work).
 
 Github is financially very successful and has been profitable almost since
 inception. They practice a flat hierarchy - no managers - and have an 'open
@@ -156,11 +158,11 @@ simply that 'telling people what to do is lazy'; it's better to 'convince...by
 argument'. Consensus, or at least vigorous debate, Tomayko argues, leads to
 better results.
 
-### [Valve][]
+### Valve
 
-http://blogs.valvesoftware.com/abrash/valve-how-i-got-here-what-its-like-and-what-im-doing-2/
+[http://blogs.valvesoftware.com/abrash/valve-how-i-got-here-what-its-like-and-what-im-doing-2/](http://blogs.valvesoftware.com/abrash/valve-how-i-got-here-what-its-like-and-what-im-doing-2/)
 
-Valve is one of the most successful video-game and digital distribution
+[Valve][] is one of the most successful video-game and digital distribution
 companies in the world. Their online [Steam][] service has over 65 million
 users. The company is privately held and does not disclose financial data, but a
 [Forbes article][Forbes on Valve] from 2011 conservatively estimates their value
@@ -179,12 +181,11 @@ phrase, one of evolution, a messy state of affairs but one which is incredibly
 dynamic. Sometimes people 'wander down paths which are clearly not working'
 (things fail) but the overall picture is one of success.
 
-### [Morning Star][]
+### Morning Star
 
-https://archive.harvardbusiness.org/cla/web/pl/product.seam?c=573&i=15715&cs=7c855bfce2fd1c3860846954978b1181
-(pdf)
+[https://archive.harvardbusiness.org/cla/web/pl/product.seam?c=573&i=15715&cs=7c855bfce2fd1c3860846954978b1181 (pdf)](https://archive.harvardbusiness.org/cla/web/pl/product.seam?c=573&i=15715&cs=7c855bfce2fd1c3860846954978b1181)
 
-Morning Star is a food processor company in the states. As an example of
+[Morning Star][] is a food processor company in the states. As an example of
 managerless structures they are particularly interesting because they are *not*
 a tech company. In fact, what they do (mostly processing tomatoes it seems) is
 relatively mundane. Yet their structure is quite extraordinary - no managers, no
@@ -198,7 +199,7 @@ below.
 
 ### Employees are more motivated (and achieve more)
 
-Of course people are more motivated if they can work on what they want to. Going
+People are more motivated if they can work on what they want to. Going
 managerless, it is argued, substantially reduces the friction an employee
 experiences in pursuing their ideas. This liberates employees to be
 creative. Conversely, Treehouse and others suggest a more hierarchical model
@@ -306,11 +307,9 @@ But there are many reasons to be attracted to the idea of giving employees
 greater freedom at work. Whether we are owners or employees, we should be bolder
 in our conception and practice of work.
 
-<a name="average-is-average">*</a> Let's not quibble about whether this is
-statistically correct. If you're of a pedantic mind, just assume I meant the
-median average here.
+<a name="average-is-average">\*</a> Let's not quibble about whether this is statistically correct. If you're of a pedantic mind, just assume I meant the median average here.
 
-<a name="bad-statistics">**</a> This is an understatement.
+<a name="bad-statistics">\*\*</a> This is an understatement.
 
 [The Mail Online]: http://www.dailymail.co.uk/home/index.html
 [Treehouse]: http://teamtreehouse.com/
