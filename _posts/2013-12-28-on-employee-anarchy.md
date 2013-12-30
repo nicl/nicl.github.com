@@ -25,29 +25,12 @@ the way, no boredom, no slog, passion unhindered, running wind in the hair!
 
 But is the core idea itself workable? Or is it idealistic, naive even?
 
-One suspicion is that poor performers blame managers for their own failings and
-lack of initiative. After all, good employees *make* things happen, right, even
-through adverse circumstances.
+## Real-world examples
 
-And the best employees go further and actually *change* their circumstances.
-
-Most of us, however, are not exceptional. The best can often overcome, or
-change, circumstances through great leadership and persistence, but most
-employees are, by definition, below or at average.<a
-href="#average-is-average">\*</a>
-
-In any case, good business owners and leaders should constantly review their
-company structure; people can and do succeed in traditional hierarchies, but the
-question is: can a different structure yield better results?
-
-## Case studies and publication bias
-
-What about real life examples then?
-
-Unfortunately, as an idea, employee anarchy is relatively untried. I'm not aware
-of any large-sample statistical analyses comparing the employee-led model with
-more traditional ones. And, in any case, the statistical hurdles to overcome in
-order to make such a study sensible would be high indeed.<a
+As an idea, employee anarchy is relatively untried. I'm not aware of any
+large-sample statistical analyses comparing the employee-led model with more
+traditional ones. And, in any case, the statistical hurdles to overcome in order
+to make such a study sensible would be high indeed.<a
 href="#bad-statistics">\*\*</a>
 
 Instead, then, we're left with case studies. And for 'case studies' read PR-like
@@ -277,9 +260,9 @@ as much as journals do).
 Managers that curtail the creativity of their colleagues do not sound like
 particularly good managers. Can we not simply improve our hiring and training of
 managers rather than abolishing them altogether? If the concern is around a lack
-of risk-taking, there are lots of to liberate decision-making - smaller teams,
-shorter product cycles, celebrating failure (where learning has taken place),
-and so on.
+of risk-taking, there are lots of ways to liberate decision-making - smaller
+teams, shorter product cycles, celebrating failure (where learning has taken
+place), and so on.
 
 ### What about office politics?
 
