@@ -105,11 +105,11 @@ motivated workers. Lastly, a lack of managers focuses an organisation on
 (presumably measurable) success metrics in order to better hold teams to
 account.
 
-Unlike most of the examples below, we do get some discussion of the negatives
-and unknowns. 'Anarchy' in practice, says George, is very much a function of
-team composition, and sometimes you still need top-down guidance. Lastly, he
-acknowledges that their experiences haven't yet been stressed in the crucible of
-financial difficulty.
+Unlike most of the examples below, as well as the positives, we also get some
+discussion of the negatives and unknowns. 'Anarchy' in practice, says George, is
+very much a function of team composition, and sometimes you still need top-down
+guidance. Lastly, he acknowledges that their experiences haven't yet been
+stressed in the crucible of financial difficulty.
 
 We'll consider some of these later. For now, let's move on to the next case
 study.
@@ -123,14 +123,13 @@ code. They moved to a managerless structure after an employee vote.
 
 Reading the article, the Treehouse move appears to have been motivated by a
 concern that managers, rather than facilitating change, were acting to block
-it. Not necessarily deliberately, but somehow this was happening.
+it. People 'want to be amazing at their job' but often feel powerless to
+implement their ideas. Over time this leads to an 'indifferent cynicism' which
+impacts their work.
 
-Worth noting here is the underlying belief that people 'want to be amazing at
-their job' but often feel powerless to implement their ideas. Over time this
-leads to an 'indifferent cynicism' which impacts their work.
-
-This highly positive view of employees and people in general is a common theme
-among anarchy-advocates.
+Employee anarchy is Treehouse's attempt to liberate employees and to reclaim
+some of the dynamism they experienced as a startup before growth bogged them
+down.
 
 By the way, if you've ever wondered about the specifics of how 'anarchy' can be
 organised (which is a strange way of putting it) then the Treehouse article is
@@ -154,12 +153,16 @@ precisely 234 employees according to their website.
 
 Github's Director of Engineering, Ryan Tomayko, has written an interesting blog
 about his role and the benefits of a managerless culture. He cites two
-particular benefits of not managing people. Firstly, managers don't scale, by
-which he means that as a business grows they can become blockers or get
-over-stretched and, by implication, make bad decisions. The second point is
-simply that 'telling people what to do is lazy'; it's better to 'convince...by
-argument'. Consensus, or at least vigorous debate, Tomayko argues, leads to
-better results.
+particular problems with the traditional management model. Firstly, managers
+don't scale, by which he means that as a business grows they can become blockers
+or get over-stretched and, by implication, make bad decisions. Better, he
+argues, for leaders to focus on enabling others to better make decisions
+themselves (although some of course would say this constitutes a great
+description of good management). The second point is simply that 'telling people
+what to do is lazy'; it's better to 'convince...with argument'. Consensus, or at
+least vigorous debate, it is suggested, leads to better results.
+
+As Github's Director of Engineering, Tomayko is focused on helping people to manage themselves.
 
 ### Valve
 
