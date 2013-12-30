@@ -97,7 +97,7 @@ hack events, anything really.
 
 ## Location, location, location
 
-Not really sure wheether this was just noise but it was notable how
+Not really sure whether this was just noise but it was notable how
 many teams focused on location<a href="#location">\*\*\*</a> as a way
 to filter content. Is location a crucial bit of meta-data that is
 presently underexploited, or just a fad? I don't know but it will be
