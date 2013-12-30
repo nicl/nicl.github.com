@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: On programmer anarchy
+title: On employee anarchy
 ---
 
 *Frustrated by your boss? Is your creativity stifled, your ideas ignored? And
@@ -33,7 +33,8 @@ And the best employees go further and actually *change* their circumstances.
 
 Most of us, however, are not exceptional. The best can often overcome, or
 change, circumstances through great leadership and persistence, but most
-employees are, by definition, average.<a href="#average-is-average">\*</a>
+employees are, by definition, below or at average.<a
+href="#average-is-average">\*</a>
 
 In any case, good business owners and leaders should constantly review their
 company structure; people can and do succeed in traditional hierarchies, but the
