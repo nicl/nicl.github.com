@@ -31,7 +31,7 @@ As an idea, employee anarchy is relatively untried. I'm not aware of any
 large-sample statistical analyses comparing the employee-led model with more
 traditional ones. And, in any case, the statistical hurdles to overcome in order
 to make such a study sensible would be high indeed.<a
-href="#bad-statistics">\*\*</a>
+href="#bad-statistics">\*</a>
 
 Instead, then, we're left with case studies. And for 'case studies' read PR-like
 blog posts describing 'success' cases. Below we'll discuss some of these
@@ -296,9 +296,7 @@ But there are many reasons to be attracted to the idea of giving employees
 greater freedom at work. Whether we are owners or employees, we should be bolder
 in our conception and practice of work.
 
-<a name="average-is-average">\*</a> Let's not quibble about whether this is statistically correct. If you're of a pedantic mind, just assume I meant the median average here.
-
-<a name="bad-statistics">\*\*</a> This is an understatement.
+<a name="bad-statistics">\*</a> This is an understatement.
 
 [The Mail Online]: http://www.dailymail.co.uk/home/index.html
 [Treehouse]: http://teamtreehouse.com/
