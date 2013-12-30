@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: APIs: Media Hackday Berlin
+title: APIs - Media Hackday Berlin
 permalink: /2013/10/10/media-hackday-berlin.html
 ---
 
@@ -15,7 +15,7 @@ help teams get maximum use of our API by running a workshop and also
 sitting down with teams throughout the event to help when needed. What
 follows are some thoughts/takeaways from the event.
 
-1. You should have an API
+## You should have an API
 
 If data is core to your organisation, you need to make it available,
 certainly internally and possibly publicly too, via an API.
@@ -45,7 +45,7 @@ too complex and tangled to modify safely or speedily. By presenting a
 layer of abstraction over a database, an API can also act as a point
 of scalability.
 
-2. Structured data is Queen
+## Structured data is Queen
 
 Data is only useful insofar as it is structured. Even limited
 structure can take you a long way via good textual analysis,
@@ -77,7 +77,7 @@ Thankfully things are starting to change on this front. Our new CMS
 tools allow for a richer content model which will hopefully make it's
 way into the API at some point. It certainly needs to.
 
-3. People love The Guardian
+## People love The Guardian
 
 Berlin was my first event as a Guardian representative and I was
 struck by the level of interest in how we work. And people also like
@@ -87,7 +87,7 @@ This is hugely encouraging. From an API perspective, it reinforced my
 belief that people want to access our content and make stuff with
 it. We can and should do more to enable this.
 
-4. Eat your own dogfood
+## Eat your own dogfood
 
 It is strange but true that I learnt more about using our API over the
 weekend than in the several months that preceeded it. Our team work on
@@ -95,14 +95,14 @@ the Content API everyday but we don't *consume* it. Somehow, as a
 team, we need to find a way to address this - through side-projects,
 hack events, anything really.
 
-5. Location, location, location
+## Location, location, location
 
 Not really sure wheether this was just noise but it was notable how
-many teams focused on location<a href="location">\*\*\*</a> as a way
+many teams focused on location<a href="#location">\*\*\*</a> as a way
 to filter content. Is location a crucial bit of meta-data that is
 presently underexploited, or just a fad? I don't know but it will be
 interesting to find out.
 
-<a name="monolith">\*</a> ...then you're crazy.
+<a name="mistakes">\*</a> ...then you're crazy.
 <a name="monolith">\*\*</a> Inevitably written in Java or some such.
 <a name="location">\*\*\*</a> Location either explicitly provided by the API or imputed using cleverness (see @localstream).
