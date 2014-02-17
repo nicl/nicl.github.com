@@ -4,10 +4,6 @@ category: blog
 title: On employee anarchy
 ---
 
-*Frustrated by your boss? Is your creativity stifled, your ideas ignored? And
-what about your team: are they putting energy on the wrong things? Or perhaps
-your colleagues are just difficult people, Or even simply demotivated..*
-
 ## An idea whose time has come?
 
 Employee Anarchy is a class of organisation structures categorised by high
