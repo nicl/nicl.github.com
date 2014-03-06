@@ -3,7 +3,8 @@ layout: default
 title: franconia flat
 ---
 
-Spacious 2 person flat on Franconia Road (in Clapham).
+Spacious 2 person, 'split-level' (apparently that is a key phrase),
+flat in Franconia Road, Clapham.
 
 Has a really nice kitchen and separate living room. The bedroom
 available is a really good size, with a double bed and wardrobe etc
@@ -11,6 +12,8 @@ available is a really good size, with a double bed and wardrobe etc
 
 The flat also has an outside balcony for drinks/barbequeues etc in the
 Summer.
+
+Nice bathroom and separate toilet.
 
 Transport links are excellent - less than 10 mins walk from both
 Clapham Common and Clapham South tube stations.
