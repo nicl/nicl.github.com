@@ -17,7 +17,6 @@ About me: I'm a friendly guy in my mid-20s who likes sport, and
 socialising. Would be nice to find someone, male or female, who is
 friendly, preferably a similar age to myself.
 
-<img src="/img/franconia/image_0.jpeg">
 <img src="/img/franconia/image_1.jpeg">
 <img src="/img/franconia/image_2.jpeg">
 <img src="/img/franconia/image_3.jpeg">
@@ -31,3 +30,4 @@ friendly, preferably a similar age to myself.
 <img src="/img/franconia/image_11.jpeg">
 <img src="/img/franconia/image_12.jpeg">
 <img src="/img/franconia/image_13.jpeg">
+<img src="/img/franconia/image_0.jpeg">
