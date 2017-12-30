@@ -1,15 +1,10 @@
 ---
 layout: default
-title: nic long
+title: niclong.uk
 ---
-<p class="large">Find out <a href="/about.html">about me</a>, or perhaps explore <a href="/blog.html">my blog...</a></p>
 
-<p>...or, if you're bored, why not just enjoy this delightful poem by Michael Rosen?</p>
-
-<div class="chocolate-cake">
-    <iframe width="450" height="253" src="http://www.youtube.com/embed/7BxQLITdOOc" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<p>...or this <a href="http://www.infoq.com/presentations/Simple-Made-Easy-QCon-London-2012">great talk on programming</a> by Rich Hickey...</p>
-
-<p>...or this <a href="http://www.ted.com/talks/tim_harford.html">fascinating TED talk</a> by Tim Harford about the importance of evidence-based policy.</p>
+<ul class="posts">
+  {% for post in site.posts %}
+  <li><a href="{{ post.url }}">{{ post.date | date_to_string }} - {{ post.title }}</a></li>
+  {% endfor %}
+</ul>

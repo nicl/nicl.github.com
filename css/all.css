@@ -1,4 +1,15 @@
----
----
-{% include core.css %}
-{% include style.css %}
+body{
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6;
+    font-size: 18px;
+    color: #444;
+    padding: 0 10px;
+    background-color: #EEEEEE;
+    /* font-family: sans-serif; */
+}
+
+blockquote {
+    padding-left: 1em;
+    border-left: 0.5em solid rgb(42, 161, 152);
+}
